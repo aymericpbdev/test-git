@@ -1,2 +1,3 @@
-# test-git
-Repo for testing git &amp; github
+# My Git/GitHub testing repository
+Hello there,
+This is a repo for testing git & github
